@@ -1,0 +1,142 @@
+header nav {
+
+text-align: right;
+
+
+}
+
+
+header {
+
+display: grid;
+ grid-template-columns: auto auto auto auto; 
+align-items: right;
+align-content: space-between;
+ background-color:darksalmon;
+
+
+} 
+
+
+header nav a {
+
+
+padding: 10px 30px;
+display :inline-block;
+transition: 500ms;
+
+
+}
+
+
+a{
+
+    text-decoration: none;
+    color :rgb(0, 0, 0);
+
+}
+
+
+main img {
+
+
+align-items:center ; 
+
+padding : 10px;
+
+margin-top: 20px;
+
+width:100%;
+
+}
+
+.section_images {
+
+display: grid;
+grid-template-columns: auto auto auto;
+
+gap :20px
+
+
+
+}
+
+
+body {
+
+
+background-color :darkorange ;
+}
+
+
+main nav {
+
+text-align: center;
+
+
+}
+
+
+.Image_Article {
+
+    display : grid ;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+     
+align-content: space-between;
+
+
+gap :30px;
+
+
+
+
+
+
+}
+
+
+
+.color_foramt{
+
+background-color: darkmagenta;
+ height :40px;
+ width: 100%;
+
+
+}
+
+/* footer {
+
+
+    background-color: darkmagenta;
+ width :100%;
+ height: 50px;
+
+} */
+
+
+/* .divHover {
+    position: absolute;
+    right: 100px;  
+    width: 200px;
+    height: 120px;
+    bottom: 3px;
+    border: 3px solid green;
+  }  */
+
+
+
+  
+
+  /* main nav {
+    text-align: right;
+    display: grid;
+     grid-template-columns: auto; 
+    align-content: space-between;
+    width :100%;
+    
+    
+    } 
+     */
+
